@@ -1,0 +1,4 @@
+siteTitle="Barebones Preact"
+linkPrefix = "/gatsby-starter-barebones-preact"
+
+noProductionJavascript = false
