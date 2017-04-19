@@ -6,6 +6,7 @@
   "repository": "https://github.com/Rusta/gatsby-starter-barebones-preact",
   "scripts": {
     "build": "gatsby build",
+    "build-prefix-links": "gatsby build --prefix-links",
     "develop": "gatsby develop",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
